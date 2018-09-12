@@ -1,0 +1,7 @@
+D:\VisualProjects\Birthday Cake Candles\Birthday Cake Candles\bin\Debug\Birthday Cake Candles.exe.config
+D:\VisualProjects\Birthday Cake Candles\Birthday Cake Candles\bin\Debug\Birthday Cake Candles.exe
+D:\VisualProjects\Birthday Cake Candles\Birthday Cake Candles\bin\Debug\Birthday Cake Candles.pdb
+D:\VisualProjects\Birthday Cake Candles\Birthday Cake Candles\obj\Debug\Birthday Cake Candles.csproj.CoreCompileInputs.cache
+D:\VisualProjects\Birthday Cake Candles\Birthday Cake Candles\obj\Debug\Birthday Cake Candles.exe
+D:\VisualProjects\Birthday Cake Candles\Birthday Cake Candles\obj\Debug\Birthday Cake Candles.pdb
+D:\VisualProjects\Birthday Cake Candles\Birthday Cake Candles\obj\Debug\Birthday Cake Candles.csprojAssemblyReference.cache
